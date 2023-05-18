@@ -1,0 +1,10 @@
+p {
+    color: blue;
+  }
+  #imagem {
+      border:solid 1px;
+      border-radius:20px;
+  }
+  #dias {
+    color: blue;
+}
